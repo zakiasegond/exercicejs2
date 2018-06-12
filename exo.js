@@ -44,7 +44,9 @@ alert(result);
 // exo 8 boite de dialogue SAISI pour demander l'age et afficher Majeur ou Mineur!
 var age = prompt("Quel est votre age?");
 if (age >=18)
+{
 	alert("Vous êtes Majeur!");
+}
 else
 	alert("Vous êtes Mineur!");
 
