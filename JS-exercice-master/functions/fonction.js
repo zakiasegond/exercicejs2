@@ -21,3 +21,10 @@ var texte2= "les copains";
 alert(texte1 + texte2);
 
 }
+
+//exo 4 faire une fonction qui prend en compte 2 nombres
+function number1(){
+var x= 25;
+var y= 46;
+if (x<)
+}
