@@ -20,7 +20,12 @@ alert(mois[5]);
 alert(mois[10]);
 
 
-//exo 5 modifier le mois "aout" pour lui mettre le chapeau!
+//exo 5 modifier le mois "aout" pour lui mettre le chapeau
+mois.splice(7, 1, "Août");
+alert(mois[7]);
+
+//exo 6 Afficher toutes les valeurs du tableau
+alert(mois);
 
 
 
