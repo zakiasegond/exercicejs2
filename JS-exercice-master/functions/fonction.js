@@ -75,3 +75,13 @@ else if (age<18, "homme"){
 	alert("Vous êtes un homme et vous êtes mineur");
 }
 }
+
+
+//exo 8 faire une fonction avec 3 parametres  de nombre et qui renvois le total des " nombres"
+function fonction8(){
+var num1= 25;
+var num2= 30;
+var num3= 10
+alert(num1 + num2 + num3);
+
+}
