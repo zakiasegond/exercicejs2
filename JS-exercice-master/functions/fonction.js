@@ -85,3 +85,5 @@ var num3= 10
 alert(num1 + num2 + num3);
 
 }
+
+// Leçon terminée!!!!!!!
